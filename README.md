@@ -36,7 +36,7 @@ Find and display the sum of all even numbers between 1 and N.
 9. Sum of Odd Numbers
 Find and display the sum of all odd numbers between 1 and N.
 
-10. Average of N Numbers
+10.Average of N Numbers
 Calculate and display the average of N numbers.
 
 11. GCD (Greatest Common Divisor)
